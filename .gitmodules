@@ -1,0 +1,19 @@
+[submodule "packages/ncn_basic"]
+	path = packages/ncn_basic
+	url = https://github.com/ncn-KG/typo3-ncn_basic.git
+	
+[submodule "packages/ncn_cookieconsent"]
+	path = packages/ncn_cookieconsent
+	url = https://github.com/ncn-KG/typo3-ncn_cookieconsent
+[submodule "packages/ncn_references"]
+	path = packages/ncn_references
+	url = https://github.com/ncn-KG/typo3-ncn_references
+[submodule "packages/ncn_jobs"]
+	path = packages/ncn_jobs
+	url = https://github.com/ncn-KG/typo3-ncn_jobs
+[submodule "packages/ncn_contacts"]
+	path = packages/ncn_contacts
+	url = https://github.com/ncn-KG/typo3-ncn_contacts
+[submodule "packages/ncn_rivierapool_theme"]
+	path = packages/ncn_rivierapool_theme
+	url = https://github.com/ncn-KG/typo3-ncn_rivierapool_theme.git
